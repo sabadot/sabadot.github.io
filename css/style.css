@@ -222,6 +222,15 @@ footer {
     letter-spacing: 1px;
 }
 
+.RESUME2 {
+    font-size: 1rem;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 5px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
 .cT {
     font-size: 1rem;
     color: #ffffff;
@@ -382,6 +391,29 @@ footer {
 .back {
     margin-bottom: -45px;
 }
+
+.featured1 {
+    width: 58%;
+    height: 100%;
+}
+
+.featured2 {
+    width: 28%;
+    height: 100%;
+}
+
+.Fwidth {
+    width: 100%;
+    text-align: center;
+}
+
+.smallT {
+    font-size: 0.75rem;
+}
+
+
+
+
 
 
 
